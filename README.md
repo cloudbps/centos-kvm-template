@@ -17,3 +17,5 @@
 
 - 执行sh scripts/centos71.sh  centos71
 
+- vm的默认密码: Lc13yfwpW
+
